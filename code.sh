@@ -1,1 +1,2 @@
-echo 'welcome to the devops class'
+echo'Welcome to devops class'
+echo'my code updated'
